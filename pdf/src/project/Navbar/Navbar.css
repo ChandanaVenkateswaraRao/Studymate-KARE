@@ -1,0 +1,33 @@
+/* .nav{
+    display: flex;
+    flex-direction: row;
+} */
+
+.nav{
+
+    width: 100%;
+    background-color: orange;
+    height: 50px;    
+    
+    align-items: center;
+    align-content: center;
+}
+.nav ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+
+.nav ul li{
+    list-style: none;
+    cursor: pointer;
+
+}
+.nav ul li:hover{
+    background-color: white;
+    border-radius: 10px;
+}
+.nav ul li:active{
+    text-underline-position: below;
+}
