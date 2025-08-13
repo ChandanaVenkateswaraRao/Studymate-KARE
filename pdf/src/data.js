@@ -7,7 +7,7 @@ export const subjects = [
         files: [
           { name: "Time & Space Complexity", file: "/chapter1/daa.pdf" },
           { name: "Algorithm", file: "/chapter1/notes.pdf" },
-          { name: "Recurrence_relation", file: "/chapter1/recurrence_realation.pdf" }
+          { name: "Recurrence_relation", file: "/chapter1/recurrence_relation.pdf" }
         ]
       },
       {
@@ -21,16 +21,7 @@ export const subjects = [
     { name: "strassen matrix", file: "/chapter2/strassenmatrix.pdf" }
     ]
       },
-    //   {
-    //     title : "Unit3",
 
-    //   },
-    //   {
-    //     title:"Unit4",
-    //   },
-    //   {
-    //     title:"Unit5"
-    //   }
     ]
   },
 ];
